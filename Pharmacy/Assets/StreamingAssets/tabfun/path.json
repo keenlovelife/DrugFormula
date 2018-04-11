@@ -1,0 +1,681 @@
+﻿{
+  "json": {
+    "body": "tabfun/json/body.json",
+    "drugs": "tabfun/json/drugs.json"
+  },
+  "query_drugs": {
+
+    "药物中常见的化学骨架及名称": {
+      "contain": [
+        "环戊烷",
+        "苯",
+        "呋喃",
+        "吡咯",
+        "咪锉",
+        "噻锉",
+        "四氮锉",
+        "1,2,3,4-四氮锉",
+        "哌嗪",
+        "哒嗪",
+        "吡嗪",
+        "吲哚",
+        "喹啉",
+        "苯并嘧啶",
+        "环己烷",
+        "萘",
+        "噻吩",
+        "吡锉",
+        "噁锉",
+        "三氮锉",
+        "1,3,4-三氮锉",
+        "哌啶",
+        "吡啶",
+        "嘧啶",
+        "茚",
+        "苯并咪唑",
+        "异喹啉",
+        "苯二氮䓬",
+        "苯并噁锉",
+        "吩噻嗪",
+        "胸腺嘧啶",
+        "雌甾烷",
+        "孕甾烷",
+        "苯并噻锉",
+        "尿嘧啶",
+        "胞嘧啶",
+        "鸟嘌呤",
+        "雄甾烷"
+      ],
+      "path": {
+        "drugs": "tabfun/json/YaoWuZhongChangJianDeHuaXueGuJiaJiMingCheng.json"
+      }
+    },
+
+    "镇静与催眠药": {
+      "contain": [
+        "地西泮_dixipan_dixipan1",
+        "奥沙西泮_aoshaxipan_aoshaxipan1",
+        "硝西泮_xiaoxipan",
+        "氯硝西泮_lvxiaoxipan",
+        "劳拉西泮_laolaxipan",
+        "氟西泮_fuxipan_fuxipan1",
+        "氟地西泮_fudixipan_fudixipan1",
+        "艾司唑仑_aisizuolun",
+        "阿普唑仑_apuzuolun",
+        "三唑仑_sanzuolun",
+        "唑吡坦_zuobitan_zuobitan1",
+        "佐匹克隆_zuopikelong",
+        "艾司佐匹克隆_aisizuopikelong_aisizuopikelong1"
+      ],
+      "path": {
+        "models": "tabfun/model/0_1_1",
+        "drugs": "tabfun/json/ZhenJingYuCuiMianYao.json"
+      }
+    },
+    "抗癫痫药物": {
+      "contain": [
+        "卡马西平_kamaxiping_kamaxiping1",
+        "奥卡西平_aokaxiping",
+        "巴比妥酸_babituosuan",
+        "苯巴比妥_benbabituo_benbabituo1",
+        "苯妥英钠_bentuoyingna_bentuoyingna1",
+        "戊巴比妥_wubabituo",
+        "司可巴比妥_sikebabituo",
+        "氯胺酮_lvantong",
+        "硫喷妥_liupentuo"
+      ],
+      "path": {
+        "models": "tabfun/model/0_1_2",
+        "drugs": "tabfun/json/KangDianXianYaoWu.json"
+      }
+    },
+    "抗精神病药物": {
+      "contain": [
+        "氯丙嗪_lvbingqin",
+        "三氟丙嗪_sanfubingqin",
+        "乙酰丙嗪_yixianbingqin",
+        "奋乃静_fennaijing",
+        "氟奋乃静_fufennaijing",
+        "庚氟奋乃静_gengfufennaijing",
+        "氯普噻吨_lvpusaidun",
+        "珠氯噻醇_zhulvsaichun",
+        "氟哌噻吨_fupaisaidun",
+        "氯氮平_lvdanping_lvdanping1",
+        "氯噻平_lvsaiping_lvsaiping1",
+        "洛沙平_luoshaping",
+        "阿莫沙平_amoshaping_amoshaping1",
+        "利培酮_lipeitong_lipeitong1",
+        "帕利哌酮_palipaitong_palipaitong1",
+        "齐拉西酮_qilaxitong_qilaxitong1",
+        "吩噻嗪类药物_fensaiqinleiyaowu"
+      ],
+      "path": {
+        "models": "tabfun/model/0_1_3",
+        "drugs": "tabfun/json/KangJingShenBingYaoWu.json"
+      }
+    },
+    "抗抑郁药": {
+      "contain": [
+        "丙咪嗪_bingmiqin",
+        "地昔帕明_dixipaming",
+        "氯米帕明_lvmipaming",
+        "阿米替林_amitilin_amitilin1_amitilin2",
+        "去甲替林_qujiatilin",
+        "多塞平_duosaiping_duosaiping1",
+        "氟西汀_fuxiting_fuxiting1",
+        "去甲氟西汀_qujiafuxiting",
+        "舍曲林_shequlin_shequlin1",
+        "N-去甲舍曲林_n-qujiashequlin",
+        "氟伏沙明_fufushaming",
+        "氯伏沙明_lvfushaming",
+        "西酞普兰_xitaipulan_xitaipulan1",
+        "艾司西酞普兰_aisixitaipulan_aisixitaipulan1",
+        "N-去甲基西酞普兰_n-qujiajixitaipulan",
+        "帕罗西汀_paluoxiting",
+        "文拉法辛_wenlafaxin_wenlafaxin1_wenlafaxin2"
+      ],
+      "path": {
+        "models": "tabfun/model/0_1_4",
+        "drugs": "tabfun/json/KangYiYuYao.json"
+      }
+    },
+    "镇痛药": {
+      "contain": [
+        "吗啡_mafei",
+        "可待因_kedaiyin",
+        "海洛因_hailuoyin",
+        "烯丙吗啡_xibingmafei",
+        "纳洛酮_naluotong",
+        "羟考酮_qiangkaotong",
+        "哌替啶_paitiding",
+        "芬太尼_fentaini_fentaini1",
+        "阿芬太尼_afentaini_afentaini1_afentaini2",
+        "舒芬太尼_shufentaini_shufentaini1",
+        "瑞芬太尼_ruifentaini_ruifentaini1",
+        "美沙酮_meishatong_meishatong1_meishatong2",
+        "布桂嗪_buguiqin",
+        "曲马多_qumaduo",
+        "普鲁卡因_pulukayin",
+        "盐酸普鲁卡因_yansuanpulukayin"
+      ],
+      "path": {
+        "models": "tabfun/model/0_1_5",
+        "drugs": "tabfun/json/ZhenTongYao.json"
+      }
+    },
+
+    "解热、镇痛药": {
+      "contain": [
+        "3",
+        "阿司匹林_asipilin_asipilin1_asipilin2",
+        "贝诺酯_beinuozhi",
+        "对乙酰氨基酚_duiyixiananjifen"
+      ],
+      "path": {
+        "models": "tabfun/model/0_2_1",
+        "drugs": "tabfun/json/JieReZhenTongYao.json"
+      }
+    },
+    "非淄体抗炎药": {
+      "contain": [
+        "吲哚美辛_yinduomeixin_yinduomeixin1",
+        "双氯芬酸_shuanglvfensuan_shuanglvfensuan1",
+        "舒林酸_shulinsuan",
+        "布洛芬_buluofen_buluofen1_buluofen2_buluofen3",
+        "萘普生_naipusheng_naipusheng1",
+        "酮洛芬_tongluofen",
+        "萘丁美酮_naidingmeitong",
+        "吡罗昔康_biluoxikang",
+        "舒多昔康_shuduoxikang",
+        "美洛昔康_meiluoxikang",
+        "塞来昔布_sailaixibu",
+        "罗非昔布_luofeixibu"
+      ],
+      "path": {
+        "models": "tabfun/model/0_2_2",
+        "drugs": "tabfun/json/FeiZiTiKangYanYao.json"
+      }
+    },
+    "抗痛风药": {
+      "contain": [
+        "秋水仙碱_qiushuixianjian_qiushuixianjian1_qiushuixianjian2",
+        "丙磺舒_binghuangshu_binghuangshu1_binghuangshu2",
+        "别嘌醇_biepiaochun_biepiaochun1_biepiaochun2",
+        "非布索坦_feibusuotan",
+        "苯溴马隆_benxiumalong_benxiumalong1_benxiumalong2"
+      ],
+      "path": {
+        "models": "tabfun/model/0_2_3",
+        "drugs": "tabfun/json/KangTongFengYao.json"
+      }
+    },
+
+    "镇咳药": {
+      "contain": [
+        "可待因_kedaiyin",
+        "右美沙芬_youmeishafen",
+        "喷托维林_pentuoweilin"
+      ],
+      "path": {
+        "drugs": "tabfun/json/ZhenKeYao.json"
+      }
+    },
+    "祛痰药": {
+      "contain": [
+        "溴已新_xiuyixin",
+        "氨溴索_anxiusuo",
+        "乙酰半胱氨酸_yixianbanguangansuan",
+        "羧甲司坦_suojiasitan"
+      ],
+      "path": {
+        "drugs": "tabfun/json/QuTanYao.json"
+      }
+    },
+    "平喘药": {
+      "contain": [
+        "沙丁胺醇_shadinganchun_shadinganchun1_shadinganchun2",
+        "沙美特罗_shameiteluo_shameiteluo1",
+        "特布他林_tebutalin",
+        "班布特罗_suojiasitan",
+        "福莫特罗_fumoteluo",
+        "丙卡特罗_bingkateluo",
+        "孟鲁司特_menglusite_menglusite1",
+        "扎鲁司特_zhalusite_zhalusite1_zhalusite2",
+        "曲尼司特_qunisite",
+        "普仑司特_pulunsite",
+        "齐留通_qiliutong_qiliutong1_qiliutong2",
+        "色甘酸钠_segansuanna_segansuanna1_segansuanna2",
+        "噻托溴铵_saituoxiuan_saituoxiuan1_saituoxiuan2",
+        "异丙托溴铵_yibingtuoxiuan_yibingtuoxiuan1",
+        "丙酸倍氯米松_bingsuanbeilvmisong",
+        "丙酸氟替卡松_bingsuanfutikasong_bingsuanfutikasong1_bingsuanfutikasong2",
+        "布地奈德_budinaide",
+        "茶碱_chajian_chajian1_chajian2",
+        "氨茶碱_anchajian",
+        "二羟丙茶碱_erqiangbingchajian",
+        "多索茶碱_duosuochajian"
+      ],
+      "path": {
+        "drugs": "tabfun/json/PingChuanYao.json"
+      }
+    },
+
+    "抗溃疡药": {
+      "contain": [
+        "西咪替丁_ximitiding",
+        "法莫替丁_famotiding",
+        "罗沙替丁乙酸酯_luoshatidingyisuanzhi",
+        "尼扎替丁_nizhatiding",
+        "雷尼替丁_leinitiding",
+        "硫氧化物_liuyanghuawu",
+        "羟甲基化合物_qiangjiajihuahewu",
+        "兰索拉唑_lansuolazuo",
+        "右兰索拉唑_youlansuolazuo",
+        "泮托拉唑_pantuolazuo",
+        "奥美拉唑_aomeilazuo",
+        "埃索美拉唑_aisuomeilazuo",
+        "雷贝拉唑钠_leibeilazuona"
+      ],
+      "path": {
+        "drugs": "tabfun/json/KangKuiYangYao.json"
+      }
+    },
+    "解痉药": {
+      "contain": [
+        "阿托品_atuopin",
+        "托品醇_tuopinchun-chuanshi_tuopinchun-yishi",
+        "东莨菪碱_donglangdangjian",
+        "山莨菪碱_shanlangdangjian",
+        "丁溴东莨菪碱_dingxiudonglangdangjian",
+        "后马托品_houmatuopin"
+      ],
+      "path": {
+        "drugs": "tabfun/json/JieJingYao.json"
+      }
+    },
+    "促胃肠动力药": {
+      "contain": [
+        "甲氧氯普胺_jiayanglvpuan",
+        "多潘立酮_duopanlitong",
+        "西沙必利_xishabili",
+        "莫沙必利_moshabili",
+        "伊托必利_yituobili"
+      ],
+      "path": {
+        "drugs": "tabfun/json/CuWeiChangDongLiYao.json"
+      }
+    },
+
+    "抗心律失常药": {
+      "contain": [
+        "奎尼丁_kuiniding",
+        "奎宁_kuining",
+        "利多卡因_liduokayin",
+        "美西律_meixilv",
+        "普罗帕酮_puluopatong",
+        "胺碘酮_andiantong",
+        "普萘洛尔_punailuoer_punailuoer1_punailuoer2",
+        "美托洛尔_meituoluoer",
+        "倍他洛尔_beitaluoer",
+        "比索洛尔_bisuoluoer",
+        "索他洛尔_suotaluoer_suotaluoer1",
+        "拉贝洛尔_labeiluoer",
+        "阿替洛尔_atiluoer"
+      ],
+      "path": {
+        "drugs": "tabfun/json/KangXinLvShiChangYao.json"
+      }
+    },
+    "抗心绞痛药": {
+      "contain": [
+        "硝酸甘油_xiaosuanganyou",
+        "亚硝酸异戊酯_yaxiaosuanyiwuzhi",
+        "丁四硝酯_dingsixiaozhi",
+        "硝酸异山梨酯_xiaosuanyishanlizhi",
+        "单硝酸异山梨酯_danxiaosuanyishanlizhi",
+        "戊四硝酯_wusixiaozhi",
+        "硝苯地平_xiaobendiping_xiaobendiping1",
+        "尼群地平_niqundiping_niqundiping1",
+        "非洛地平_feiluodiping",
+        "氨氯地平_anlvdiping_anlvdiping1",
+        "尼莫地平_nimodiping",
+        "维拉帕米_weilapami_weilapami1",
+        "地尔硫䓬_dierliuzhuo",
+        "硝基苯吡啶衍生物_xiaojibenbidingyanshengwu",
+        "亚硝基苯吡啶衍生物_yaxiaojibenbidingyanshengwu"
+      ],
+      "path": {
+        "drugs": "tabfun/json/KangXinJiaoTongYao.json"
+      }
+    },
+    "抗高血压药": {
+      "contain": [
+        "卡托普利_katuopuli",
+        "依那普利_yinapuli_yinapuli1",
+        "依那普利拉_yinapulila_yinapulila1",
+        "赖诺普利_lainuopuli_lainuopuli1",
+        "贝那普利_beinapuli",
+        "雷米普利_leimipuli",
+        "福辛普利_fuxinpuli",
+        "氯沙坦_lvshatan",
+        "缬沙坦_xieshatan",
+        "厄贝沙坦_ebeishatan",
+        "替米沙坦_timishatan",
+        "坎地沙坦酯_kandishatanzhi",
+        "坎地沙坦_kandishatan"
+      ],
+      "path": {
+        "drugs": "tabfun/json/KangGaoXueYanYao.json"
+      }
+    },
+    "调节血脂药": {
+      "contain": [
+        "洛伐他汀_luofatating",
+        "辛伐他汀_xinfatating_xinfatating1",
+        "普伐他汀_pufatating",
+        "氟伐他汀_fufatating_fufatating1",
+        "阿托伐他汀_atuofatating_atuofatating1",
+        "瑞舒伐他汀_ruishufatating_ruishufatating1",
+        "氯贝丁酯_lvbeidingzhi",
+        "非诺贝特_feinuoerte",
+        "吉非罗齐_jifeiluoqi_fangyangwusuanjiegouyaowu",
+        "苯扎贝特_benzhabeite"
+      ],
+      "path": {
+        "drugs": "tabfun/json/TiaoJieXueZhiYao.json"
+      }
+    },
+
+    "甾体激素类": {
+      "contain": [
+        "可的松_kedisong",
+        "氢化可的松_qinghuakedisong_qinghuakedisong1",
+        "醋酸氢化可的松_cusuanqinghuakedisong_cusuanqinghuakedisong1",
+        "泼尼松_ponisong",
+        "氢化泼尼松_qinghuaponisong",
+        "曲安西龙_quanxilong",
+        "曲安奈德_quannaide",
+        "地塞米松_disaimisong",
+        "倍他米松_beitamisong",
+        "雌二醇_cierchun_cierchun1",
+        "雌酮_citong",
+        "雌三醇_cisanchun",
+        "苯甲酸雌二醇_benjiasuancierchun",
+        "戊酸雌二醇_wusuancierchun",
+        "炔雌醇_quecichun",
+        "尼尔雌醇_niercichun",
+        "黄体酮_huangtitong_huangtitong1",
+        "醋酸甲羟孕酮_cusuanjiaqiangyuntong",
+        "醋酸甲地孕酮_cusuanjiadiyuntong",
+        "炔诺酮_quenuotong",
+        "左炔诺孕酮_zuoquenuoyuntong",
+        "睾酮_gaotong",
+        "雄烯二酮_xiongxiertong",
+        "丙酸睾酮_ningsunagaotong",
+        "甲睾酮_jiagaotong_jiagaotong1",
+        "苯丙酸诺龙_benbingsuannuolong_benbingsuannuolong1",
+        "羟甲烯龙_qiangjiaxilong",
+        "司坦唑醇_sitanzuochun"
+      ],
+      "path": {
+        "drugs": "tabfun/json/ZaiTiJiSuLei.json"
+      }
+    },
+    "降血糖药": {
+      "contain": [
+        "甲苯磺丁脲_jiabenhuangdingniao",
+        "格列齐特_gelieqite_gelieqite1_gelieqite2",
+        "格列本脲_geliebenniao_geliebenniao1",
+        "格列吡嗪_geliebiqin_geliebiqin1",
+        "格列喹酮_geliemeitong_geliemeitong1",
+        "格列美脲_gelimeiniao_gelimeiniao1",
+        "瑞格列奈_ruigelienai",
+        "那格列奈_nagelienai_nagelienai1",
+        "米格列奈_migelinai",
+        "二甲双胍_erjiashuanggua_erjiashuanggua1",
+        "罗格列酮_luogelietong_luogelietong1",
+        "吡格列酮_bigelietong",
+        "阿卡波糖_akabotang",
+        "伏格列波糖_fugelibotang_fugelibotang1",
+        "米格列醇_migeliechun"
+      ],
+      "path": {
+        "drugs": "tabfun/json/JiangXueTangYao.json"
+      }
+    },
+    "调节骨代谢与形成药物": {
+      "contain": [
+        "依替膦酸二钠_yitilinsuanerna",
+        "阿仑膦酸钠_alunlinsuanna",
+        "利塞膦酸钠_lisailinsuanna",
+        "维生素D3_weishengsuD3",
+        "阿法骨化醇_afaguhuachun",
+        "骨化三醇_guhuasanchun"
+      ],
+      "path": {
+        "drugs": "tabfun/json/TiaoJieGuDaiXieYuXingChengYaoWu.json"
+      }
+    },
+
+    "抗生素类抗菌药": {
+      "contain": [
+        "青霉素_qingmeisu",
+        "非奈西林_feinaixilin",
+        "苯唑西林_benzuoxilin",
+        "氨苄西林_anbianxilin_anbianxilin1",
+        "阿莫西林_amoxilin",
+        "哌拉西林_pailaxilin",
+        "美洛西林_meiluoxilin",
+        "头孢氨苄_toubaoanbian",
+        "头孢羟氨苄_toubaoqianganbian",
+        "头孢唑林_toubaozuolin",
+        "头孢克洛_toubaokeluo",
+        "头孢呋辛_toubaofuxin",
+        "头孢呋辛酯_toubaofuxinzhi",
+        "头孢哌酮_toubaopaitong",
+        "头孢曲松_toubaoqusong",
+        "头孢匹罗_toubaopiluo",
+        "头孢吡肟_toubaobiwo",
+        "克拉维酸_kelaweisuan_kelaweisuan1",
+        "舒巴坦_shubatan_shubatanna",
+        "舒它西林_shutaxilin",
+        "他唑巴坦_tazuobatan_tazuobatan1",
+        "亚胺培南_yaanpeinan_yaanpeinan1",
+        "美罗培南_meiluopeinan",
+        "法罗培南_faluopeinan",
+        "氨曲南_anqunan_anqunan1",
+        "卡那霉素A_kanameisuA",
+        "阿米卡星_amikaxing",
+        "妥布霉素_tuobumeisu",
+        "奈替米星_naitimixing",
+        "依替米星_yitimixing",
+        "庆大霉素C1_qingdameisuC1",
+        "庆大霉素C1a_qingdameisuC1a",
+        "庆大霉素C2_qingdameisuC2",
+        "红霉素_hongmeisu",
+        "琥乙红霉素_huyihongmeisu",
+        "克拉霉素_kelameisu",
+        "罗红霉素_luohongmeisu",
+        "阿奇霉素_aqimeisu",
+        "土霉素_tumeisu",
+        "金霉素_jinmeisu",
+        "四环素_sihuansu",
+        "多西环素_duoxihuansu",
+        "美他环素_meitahuansu",
+        "米诺环素_minuohuansu"
+      ],
+      "path": {
+        "drugs": "tabfun/json/KangShengSuLeiKangJunYao.json"
+      }
+    },
+    "合成抗菌药": {
+      "contain": [
+        "诺氟沙星_nuofushaxing_nuofushaxing1",
+        "环丙沙星_huanbingshaxing_huanbingshaxing1_huanbingshaxing2",
+        "左氧氟沙星_zuoyangfushaxing",
+        "洛美沙星_luomeishaxing_luomeishaxing1",
+        "依诺沙星_yinuoshaxing",
+        "司帕沙星_sipashaxing",
+        "加替沙星_jiatishaxing",
+        "莫西沙星_moxishaxing",
+        "磺胺甲恶唑_huanganjiaezuo",
+        "磺胺嘧啶_huanganmiding",
+        "甲氧苄啶_jiayangbianding",
+        "异烟肼_yiyanjing",
+        "吡嗪酰胺_biqinxianan",
+        "烟酰胺_yanxianan",
+        "乙胺丁醇_yiandingchun_yiandingchun1",
+        "咪康唑_mikangzuo",
+        "益康唑_yikangzuo",
+        "酮康唑_tongkangzuo",
+        "氟康唑_fukangzuo",
+        "伊曲康唑_yiqukangzuo",
+        "伏立康唑_fulikangzuo",
+        "喹诺酮类药物_kuinuotongleiyaowu",
+        "喹诺酮类药物1_kuinuotongleiyaowu1"
+      ],
+      "path": {
+        "drugs": "tabfun/json/HeChengKangJunYao.json"
+      }
+    },
+
+    "核苷类": {
+      "contain": [
+        "齐多夫定_qiduofuding_qiduofuding1",
+        "司他夫定_sitafuding",
+        "拉米夫定_lamifuding",
+        "恩曲他滨_enqutabin",
+        "阿昔洛韦_axiluowei_axiluowei1_axiluowei2_axiluowei3",
+        "更昔洛韦_gengxiluowei_gengxiluowei1",
+        "喷昔洛韦_penxiluowei",
+        "泛昔洛韦_fanxiluowei"
+      ],
+      "path": {
+        "drugs": "tabfun/json/HeGanLei.json"
+      }
+    },
+    "非核苷类": {
+      "contain": [
+        "利巴韦林_libaweilin",
+        "金刚烷胺_jingangwanan_jingangwanan1",
+        "金刚乙烷_jingangyian",
+        "膦甲酸钠_linjiasuanna",
+        "奥司他韦_aositawei_aositawei1"
+      ],
+      "path": {
+        "drugs": "tabfun/json/FeiHeGanLei.json"
+      }
+    },
+
+    "直接影响DNA结构和功能的药物": {
+      "contain": [
+        "美法仑_meifalun",
+        "环磷酰胺_huanlinxianan",
+        "异环磷酰胺_yihuanlinxianan",
+        "4-羟基环磷酰胺_4-qiangjihuanlinxianan",
+        "磷酰氮芥_linxiandanjie",
+        "丙烯醛_bingxiquan",
+        "去甲氮芥_qujiadanjie",
+        "替哌_tipai",
+        "赛替派_saitipai",
+        "白消安_baixiaoan",
+        "顺铂_shunbo",
+        "卡铂_kabo",
+        "奥沙利铂_aoshalibo",
+        "喜树碱_xishujian",
+        "羟基喜树碱_qiangjixishujian",
+        "拓扑替康_tuoputikang",
+        "伊立替康_yilitikang",
+        "鬼臼霉素_guijiumeisu",
+        "依托泊苷_yituopogan",
+        "依托泊苷磷酸酯_yituopoganlinsuanzhi",
+        "替尼泊苷_tinipogan",
+        "多柔比星_duoroubixing_duoroubixing1",
+        "柔红霉素_rouhongmeisu",
+        "表柔比星_biaoroubixing",
+        "米托蒽醌_mituoenkun"
+      ],
+      "path": {
+        "drugs": "tabfun/json/ZhiJieYingXiangDNAJieGouHeGongNengDeYaoWu.json"
+      }
+    },
+    "干扰核酸生物合成的药物（抗代谢药）": {
+      "contain": [
+        "氟尿嘧啶_funiaomiding",
+        "去氧氟尿苷_quyangfuniaogan",
+        "阿糖胞苷_atangbaogan",
+        "吉西他滨_jitaxibin",
+        "卡培他滨_kapeitabin",
+        "巯嘌呤_qiupiaoling",
+        "巯鸟嘌呤_qiuniaopiaoling",
+        "甲氨蝶呤_jiaandieling",
+        "亚叶酸钙_yayesuangai",
+        "培美曲塞_peimeiqusai"
+      ],
+      "path": {
+        "drugs": "tabfun/json/GanRaoHeSuanShengWuHeChengDeYaoWu_KangDaiXieYao.json"
+      }
+    },
+    "抑制蛋白质合成与功能的药物（干扰有丝分裂的药物）": {
+      "contain": [
+        "长春碱_changchunjian",
+        "长春新碱_changchunxinjian",
+        "长春地辛_changchundixin",
+        "长春瑞滨_changchunruibin",
+        "紫杉醇_zishanchun",
+        "10-去乙酰浆果赤霉素_10-quyixianjiangguochimeisu",
+        "多西他赛_duoxitasai"
+      ],
+      "path": {
+        "drugs": "tabfun/json/YiZhiDanBaiZhiHeChengYuGongNengDeYaoWu_GanRaoYouSiFenLieDeYaoWu.json"
+      }
+    },
+    "调节体内激素平衡的药物": {
+      "contain": [
+        "他莫昔芬_tamoxifen",
+        "托瑞米芬_tuoruimifen",
+        "氨鲁米特_anlumite",
+        "氟他胺_futaan"
+      ],
+      "path": {
+        "drugs": "tabfun/json/TiaoJieTiNeiJiSuPingHengDeYaoWu.json"
+      }
+    },
+    "靶向抗肿瘤药": {
+      "contain": [
+        "伊马替尼_yimatini",
+        "达沙替尼_dashatini",
+        "吉非替尼_jifeitini",
+        "埃罗替尼_ailuotini",
+        "舒尼替尼_shunitini",
+        "索拉非尼_suolafeini"
+      ],
+      "path": {
+        "drugs": "tabfun/json/BaXiangKangZhongLiuYao.json"
+      }
+    },
+    "放疗与化疗止吐药": {
+      "contain": [
+        "昂丹司琼_angdansiqiong",
+        "格拉司琼_gelasiqiong",
+        "托烷司琼_tuowansiqiong",
+        "帕洛诺司琼_paluonuosiqiong",
+        "阿扎司琼_azhasiqiong_azhasiqiong1"
+      ],
+      "path": {
+        "drugs": "tabfun/json/FangLiaoYuHuaLiaoZhiTuYao.json"
+      }
+    }
+
+  },
+  "model": {
+    "镇静与催眠药": "tabfun/model/0_1_1",
+    "抗癫痫药物": "tabfun/model/0_1_2",
+    "抗精神病药物": "tabfun/model/0_1_3",
+    "抗抑郁药": "tabfun/model/0_1_4",
+    "镇痛药": "tabfun/model/0_1_5",
+    "解热、镇痛药": "tabfun/model/0_2_1",
+    "非淄体抗炎药": "tabfun/model/0_2_2",
+    "抗痛风药": "tabfun/model/0_2_3"
+  }
+}

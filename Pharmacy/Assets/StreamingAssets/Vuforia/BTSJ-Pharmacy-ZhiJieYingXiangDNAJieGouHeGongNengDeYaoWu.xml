@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mituoenkun" size="64.000000 64.000000" />
+    <ImageTarget name="biaoroubixing" size="64.000000 64.000000" />
+    <ImageTarget name="rouhongmeisu" size="64.000000 64.000000" />
+    <ImageTarget name="duoroubixing" size="64.000000 64.000000" />
+    <ImageTarget name="tinipogan" size="64.000000 64.000000" />
+    <ImageTarget name="yituopoganlinsuanzhi" size="64.000000 64.000000" />
+    <ImageTarget name="yituopogan" size="64.000000 64.000000" />
+    <ImageTarget name="guijiumeisu" size="64.000000 64.000000" />
+    <ImageTarget name="yilitikang" size="64.000000 64.000000" />
+    <ImageTarget name="tuoputikang" size="64.000000 64.000000" />
+    <ImageTarget name="qiangjixishujian" size="64.000000 64.000000" />
+    <ImageTarget name="xishujian" size="64.000000 64.000000" />
+    <ImageTarget name="aoshalibo" size="64.000000 64.000000" />
+    <ImageTarget name="kabo" size="64.000000 64.000000" />
+    <ImageTarget name="shunbo" size="64.000000 64.000000" />
+    <ImageTarget name="baixiaoan" size="64.000000 64.000000" />
+    <ImageTarget name="saitipai" size="64.000000 64.000000" />
+    <ImageTarget name="tipai" size="64.000000 64.000000" />
+    <ImageTarget name="qujiadanjie" size="64.000000 64.000000" />
+    <ImageTarget name="bingxiquan" size="64.000000 64.000000" />
+    <ImageTarget name="linxiandanjie" size="64.000000 64.000000" />
+    <ImageTarget name="4-qiangjihuanlinxianan" size="64.000000 64.000000" />
+    <ImageTarget name="yihuanlinxianan" size="64.000000 64.000000" />
+    <ImageTarget name="huanlinxianan" size="64.000000 64.000000" />
+    <ImageTarget name="meifalun" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

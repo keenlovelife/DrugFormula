@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="peimeiqusai" size="64.000000 64.000000" />
+    <ImageTarget name="yayesuangai" size="64.000000 64.000000" />
+    <ImageTarget name="jiaandieling" size="64.000000 64.000000" />
+    <ImageTarget name="qiuniaopiaoling" size="64.000000 64.000000" />
+    <ImageTarget name="qiupiaoling" size="64.000000 64.000000" />
+    <ImageTarget name="kapeitabin" size="64.000000 64.000000" />
+    <ImageTarget name="jitaxibin" size="64.000000 64.000000" />
+    <ImageTarget name="atangbaogan" size="64.000000 64.000000" />
+    <ImageTarget name="quyangfuniaogan" size="64.000000 64.000000" />
+    <ImageTarget name="funiaomiding" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

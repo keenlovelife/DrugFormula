@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fulikangzuo" size="64.000000 64.000000" />
+    <ImageTarget name="yiqukangzuo" size="64.000000 64.000000" />
+    <ImageTarget name="fukangzuo" size="64.000000 64.000000" />
+    <ImageTarget name="tongkangzuo" size="64.000000 64.000000" />
+    <ImageTarget name="yikangzuo" size="64.000000 64.000000" />
+    <ImageTarget name="mikangzuo" size="64.000000 64.000000" />
+    <ImageTarget name="yiandingchun" size="64.000000 64.000000" />
+    <ImageTarget name="yanxianan" size="64.000000 64.000000" />
+    <ImageTarget name="biqinxianan" size="64.000000 64.000000" />
+    <ImageTarget name="yiyanjing" size="64.000000 64.000000" />
+    <ImageTarget name="jiayangbianding" size="64.000000 64.000000" />
+    <ImageTarget name="huanganmiding" size="64.000000 64.000000" />
+    <ImageTarget name="huanganjiaezuo" size="64.000000 64.000000" />
+    <ImageTarget name="moxishaxing" size="64.000000 64.000000" />
+    <ImageTarget name="jiatishaxing" size="64.000000 64.000000" />
+    <ImageTarget name="sipashaxing" size="64.000000 64.000000" />
+    <ImageTarget name="yinuoshaxing" size="64.000000 64.000000" />
+    <ImageTarget name="luomeishaxing" size="64.000000 64.000000" />
+    <ImageTarget name="zuoyangfushaxing" size="64.000000 64.000000" />
+    <ImageTarget name="huanbingshaxing" size="64.000000 64.000000" />
+    <ImageTarget name="nuofushaxing" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

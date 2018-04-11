@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="zuobitan" size="64.000000 64.000000" />
+    <ImageTarget name="sanzuolun" size="64.000000 64.000000" />
+    <ImageTarget name="fuxipan" size="64.000000 64.000000" />
+    <ImageTarget name="fudixipan" size="64.000000 64.000000" />
+    <ImageTarget name="aisizuolun" size="64.000000 64.000000" />
+    <ImageTarget name="apuzuolun" size="64.000000 64.000000" />
+    <ImageTarget name="zuopikelong" size="64.000000 64.000000" />
+    <ImageTarget name="aisizuopikelong" size="64.000000 64.000000" />
+    <ImageTarget name="xiaoxipan" size="64.000000 64.000000" />
+    <ImageTarget name="lvxiaoxipan" size="64.000000 64.000000" />
+    <ImageTarget name="laolaxipan" size="64.000000 64.000000" />
+    <ImageTarget name="dixipan" size="64.000000 64.000000" />
+    <ImageTarget name="aoshaxipan" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

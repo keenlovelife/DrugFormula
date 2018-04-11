@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="kandishatan" size="64.000000 64.000000" />
+    <ImageTarget name="kandishatanzhi" size="64.000000 64.000000" />
+    <ImageTarget name="timishatan" size="64.000000 64.000000" />
+    <ImageTarget name="ebeishatan" size="64.000000 64.000000" />
+    <ImageTarget name="xieshatan" size="64.000000 64.000000" />
+    <ImageTarget name="lvshatan" size="64.000000 64.000000" />
+    <ImageTarget name="fuxinpuli" size="64.000000 64.000000" />
+    <ImageTarget name="leimipuli" size="64.000000 64.000000" />
+    <ImageTarget name="beinapuli" size="64.000000 64.000000" />
+    <ImageTarget name="lainuopuli" size="64.000000 64.000000" />
+    <ImageTarget name="yinapulila" size="64.000000 64.000000" />
+    <ImageTarget name="yinapuli" size="64.000000 64.000000" />
+    <ImageTarget name="katuopuli" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

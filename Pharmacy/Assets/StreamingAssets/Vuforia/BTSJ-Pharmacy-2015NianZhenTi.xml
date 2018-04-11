@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="zhalusite2" size="64.000000 64.000000" />
+    <ImageTarget name="yibingtuoxiuan1" size="64.000000 64.000000" />
+    <ImageTarget name="xinfatating1" size="64.000000 64.000000" />
+    <ImageTarget name="shadinganchun2" size="64.000000 64.000000" />
+    <ImageTarget name="segansuanna2" size="64.000000 64.000000" />
+    <ImageTarget name="saituoxiuan2" size="64.000000 64.000000" />
+    <ImageTarget name="ruishufatating1" size="64.000000 64.000000" />
+    <ImageTarget name="qiushuixianjian2" size="64.000000 64.000000" />
+    <ImageTarget name="qiliutong2" size="64.000000 64.000000" />
+    <ImageTarget name="qiduofuding1" size="64.000000 64.000000" />
+    <ImageTarget name="nagelienai1" size="64.000000 64.000000" />
+    <ImageTarget name="menglusite1" size="64.000000 64.000000" />
+    <ImageTarget name="meishatong2" size="64.000000 64.000000" />
+    <ImageTarget name="shameiteluo1" size="64.000000 64.000000" />
+    <ImageTarget name="luomeishaxing1" size="64.000000 64.000000" />
+    <ImageTarget name="luogelietong1" size="64.000000 64.000000" />
+    <ImageTarget name="jingangwanan1" size="64.000000 64.000000" />
+    <ImageTarget name="gengxiluowei1" size="64.000000 64.000000" />
+    <ImageTarget name="gelieqite2" size="64.000000 64.000000" />
+    <ImageTarget name="fufatating1" size="64.000000 64.000000" />
+    <ImageTarget name="fugelibotang1" size="64.000000 64.000000" />
+    <ImageTarget name="erjiashuanggua1" size="64.000000 64.000000" />
+    <ImageTarget name="cusuanqinghuakedisong1" size="64.000000 64.000000" />
+    <ImageTarget name="chajian2" size="64.000000 64.000000" />
+    <ImageTarget name="buluofen3" size="64.000000 64.000000" />
+    <ImageTarget name="bingsuanfutikasong2" size="64.000000 64.000000" />
+    <ImageTarget name="binghuangshu2" size="64.000000 64.000000" />
+    <ImageTarget name="biepiaochun2" size="64.000000 64.000000" />
+    <ImageTarget name="benxiumalong2" size="64.000000 64.000000" />
+    <ImageTarget name="aositawei1" size="64.000000 64.000000" />
+    <ImageTarget name="axiluowei3" size="64.000000 64.000000" />
+    <ImageTarget name="atuofatating1" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

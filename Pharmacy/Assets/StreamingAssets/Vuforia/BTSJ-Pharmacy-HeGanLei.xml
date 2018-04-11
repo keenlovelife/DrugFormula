@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fanxiluowei" size="64.000000 64.000000" />
+    <ImageTarget name="penxiluowei" size="64.000000 64.000000" />
+    <ImageTarget name="gengxiluowei" size="64.000000 64.000000" />
+    <ImageTarget name="axiluowei" size="64.000000 64.000000" />
+    <ImageTarget name="enqutabin" size="64.000000 64.000000" />
+    <ImageTarget name="lamifuding" size="64.000000 64.000000" />
+    <ImageTarget name="sitafuding" size="64.000000 64.000000" />
+    <ImageTarget name="qiduofuding" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

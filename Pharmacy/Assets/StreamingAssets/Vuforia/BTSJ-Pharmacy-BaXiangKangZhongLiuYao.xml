@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="suolafeini" size="64.000000 64.000000" />
+    <ImageTarget name="shunitini" size="64.000000 64.000000" />
+    <ImageTarget name="ailuotini" size="64.000000 64.000000" />
+    <ImageTarget name="jifeitini" size="64.000000 64.000000" />
+    <ImageTarget name="dashatini" size="64.000000 64.000000" />
+    <ImageTarget name="yimatini" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

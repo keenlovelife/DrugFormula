@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="minuohuansu" size="64.000000 64.000000" />
+    <ImageTarget name="meitahuansu" size="64.000000 64.000000" />
+    <ImageTarget name="duoxihuansu" size="64.000000 64.000000" />
+    <ImageTarget name="sihuansu" size="64.000000 64.000000" />
+    <ImageTarget name="jinmeisu" size="64.000000 64.000000" />
+    <ImageTarget name="tumeisu" size="64.000000 64.000000" />
+    <ImageTarget name="aqimeisu" size="64.000000 64.000000" />
+    <ImageTarget name="luohongmeisu" size="64.000000 64.000000" />
+    <ImageTarget name="kelameisu" size="64.000000 64.000000" />
+    <ImageTarget name="huyihongmeisu" size="64.000000 64.000000" />
+    <ImageTarget name="hongmeisu" size="64.000000 64.000000" />
+    <ImageTarget name="qingdameisuC2" size="64.000000 64.000000" />
+    <ImageTarget name="qingdameisuC1a" size="64.000000 64.000000" />
+    <ImageTarget name="qingdameisuC1" size="64.000000 64.000000" />
+    <ImageTarget name="yitimixing" size="64.000000 64.000000" />
+    <ImageTarget name="naitimixing" size="64.000000 64.000000" />
+    <ImageTarget name="tuobumeisu" size="64.000000 64.000000" />
+    <ImageTarget name="amikaxing" size="64.000000 64.000000" />
+    <ImageTarget name="kanameisuA" size="64.000000 64.000000" />
+    <ImageTarget name="anqunan" size="64.000000 64.000000" />
+    <ImageTarget name="faluopeinan" size="64.000000 64.000000" />
+    <ImageTarget name="meiluopeinan" size="64.000000 64.000000" />
+    <ImageTarget name="yaanpeinan" size="64.000000 64.000000" />
+    <ImageTarget name="tazuobatan" size="64.000000 64.000000" />
+    <ImageTarget name="shutaxilin" size="64.000000 64.000000" />
+    <ImageTarget name="shubatan" size="64.000000 64.000000" />
+    <ImageTarget name="kelaweisuan" size="64.000000 64.000000" />
+    <ImageTarget name="toubaobiwo" size="64.000000 64.000000" />
+    <ImageTarget name="toubaopiluo" size="64.000000 64.000000" />
+    <ImageTarget name="toubaoqusong" size="64.000000 64.000000" />
+    <ImageTarget name="toubaopaitong" size="64.000000 64.000000" />
+    <ImageTarget name="toubaofuxinzhi" size="64.000000 64.000000" />
+    <ImageTarget name="toubaofuxin" size="64.000000 64.000000" />
+    <ImageTarget name="toubaokeluo" size="64.000000 64.000000" />
+    <ImageTarget name="toubaozuolin" size="64.000000 64.000000" />
+    <ImageTarget name="toubaoqianganbian" size="64.000000 64.000000" />
+    <ImageTarget name="toubaoanbian" size="64.000000 64.000000" />
+    <ImageTarget name="meiluoxilin" size="64.000000 64.000000" />
+    <ImageTarget name="pailaxilin" size="64.000000 64.000000" />
+    <ImageTarget name="amoxilin" size="64.000000 64.000000" />
+    <ImageTarget name="anbianxilin" size="64.000000 64.000000" />
+    <ImageTarget name="benzuoxilin" size="64.000000 64.000000" />
+    <ImageTarget name="feinaixilin" size="64.000000 64.000000" />
+    <ImageTarget name="qingmeisu" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

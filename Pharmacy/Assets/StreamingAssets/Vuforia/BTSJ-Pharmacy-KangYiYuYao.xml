@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="qujiatilin" size="1.000000 1.000000" />
+    <ImageTarget name="lvmipaming" size="1.000000 1.000000" />
+    <ImageTarget name="duosaiping1" size="1.000000 1.000000" />
+    <ImageTarget name="duosaiping" size="1.000000 1.000000" />
+    <ImageTarget name="dixipaming" size="1.000000 1.000000" />
+    <ImageTarget name="bingmiqin" size="1.000000 1.000000" />
+    <ImageTarget name="amitilin" size="1.000000 1.000000" />
+    <ImageTarget name="xitaipulan" size="1.000000 1.000000" />
+    <ImageTarget name="wenlafaxin" size="1.000000 1.000000" />
+    <ImageTarget name="shequlin" size="1.000000 1.000000" />
+    <ImageTarget name="qujiafuxiting" size="1.000000 1.000000" />
+    <ImageTarget name="paluoxiting" size="1.000000 1.000000" />
+    <ImageTarget name="fuxiting" size="1.000000 1.000000" />
+    <ImageTarget name="lvfushaming" size="1.000000 1.000000" />
+    <ImageTarget name="fufushaming" size="1.000000 1.000000" />
+    <ImageTarget name="aisixitaipulan" size="1.000000 1.000000" />
+    <ImageTarget name="n-qujiashequlin" size="1.000000 1.000000" />
+    <ImageTarget name="n-qujiajixitaipulan" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

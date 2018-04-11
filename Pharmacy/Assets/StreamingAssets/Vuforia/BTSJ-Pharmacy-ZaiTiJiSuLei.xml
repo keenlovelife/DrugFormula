@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sitanzuochun" size="64.000000 64.000000" />
+    <ImageTarget name="qiangjiaxilong" size="64.000000 64.000000" />
+    <ImageTarget name="benbingsuannuolong" size="64.000000 64.000000" />
+    <ImageTarget name="jiagaotong" size="64.000000 64.000000" />
+    <ImageTarget name="ningsunagaotong" size="64.000000 64.000000" />
+    <ImageTarget name="xiongxiertong" size="64.000000 64.000000" />
+    <ImageTarget name="gaotong" size="64.000000 64.000000" />
+    <ImageTarget name="zuoquenuoyuntong" size="64.000000 64.000000" />
+    <ImageTarget name="quenuotong" size="64.000000 64.000000" />
+    <ImageTarget name="cusuanjiadiyuntong" size="64.000000 64.000000" />
+    <ImageTarget name="cusuanjiaqiangyuntong" size="64.000000 64.000000" />
+    <ImageTarget name="huangtitong" size="64.000000 64.000000" />
+    <ImageTarget name="niercichun" size="64.000000 64.000000" />
+    <ImageTarget name="quecichun" size="64.000000 64.000000" />
+    <ImageTarget name="wusuancierchun" size="64.000000 64.000000" />
+    <ImageTarget name="benjiasuancierchun" size="64.000000 64.000000" />
+    <ImageTarget name="cisanchun" size="64.000000 64.000000" />
+    <ImageTarget name="citong" size="64.000000 64.000000" />
+    <ImageTarget name="cierchun" size="64.000000 64.000000" />
+    <ImageTarget name="beitamisong" size="64.000000 64.000000" />
+    <ImageTarget name="disaimisong" size="64.000000 64.000000" />
+    <ImageTarget name="quannaide" size="64.000000 64.000000" />
+    <ImageTarget name="quanxilong" size="64.000000 64.000000" />
+    <ImageTarget name="qinghuaponisong" size="64.000000 64.000000" />
+    <ImageTarget name="ponisong" size="64.000000 64.000000" />
+    <ImageTarget name="qinghuakedisong" size="64.000000 64.000000" />
+    <ImageTarget name="cusuanqinghuakedisong" size="64.000000 64.000000" />
+    <ImageTarget name="kedisong" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

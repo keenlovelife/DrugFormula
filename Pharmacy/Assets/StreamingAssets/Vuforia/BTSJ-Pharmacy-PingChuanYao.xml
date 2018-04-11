@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="zhalusite" size="64.000000 64.000000" />
+    <ImageTarget name="segansuanna" size="64.000000 64.000000" />
+    <ImageTarget name="qunisite" size="64.000000 64.000000" />
+    <ImageTarget name="qiliutong" size="64.000000 64.000000" />
+    <ImageTarget name="pulunsite" size="64.000000 64.000000" />
+    <ImageTarget name="menglusite" size="64.000000 64.000000" />
+    <ImageTarget name="budinaide" size="64.000000 64.000000" />
+    <ImageTarget name="bingsuanfutikasong" size="64.000000 64.000000" />
+    <ImageTarget name="bingsuanbeilvmisong" size="64.000000 64.000000" />
+    <ImageTarget name="erqiangbingchajian" size="64.000000 64.000000" />
+    <ImageTarget name="duosuochajian" size="64.000000 64.000000" />
+    <ImageTarget name="chajian" size="64.000000 64.000000" />
+    <ImageTarget name="anchajian" size="64.000000 64.000000" />
+    <ImageTarget name="tebutalin" size="64.000000 64.000000" />
+    <ImageTarget name="shadinganchun" size="64.000000 64.000000" />
+    <ImageTarget name="shameiteluo" size="64.000000 64.000000" />
+    <ImageTarget name="fumoteluo" size="64.000000 64.000000" />
+    <ImageTarget name="bingkateluo" size="64.000000 64.000000" />
+    <ImageTarget name="suojiasitan" size="64.000000 64.000000" />
+    <ImageTarget name="yibingtuoxiuan" size="64.000000 64.000000" />
+    <ImageTarget name="saituoxiuan" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

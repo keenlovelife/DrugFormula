@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tuopinchun-chuanshi" size="64.000000 64.000000" />
+    <ImageTarget name="tuopinchun-yishi" size="64.000000 64.000000" />
+    <ImageTarget name="houmatuopin" size="64.000000 64.000000" />
+    <ImageTarget name="dingxiudonglangdangjian" size="64.000000 64.000000" />
+    <ImageTarget name="shanlangdangjian" size="64.000000 64.000000" />
+    <ImageTarget name="donglangdangjian" size="64.000000 64.000000" />
+    <ImageTarget name="atuopin" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

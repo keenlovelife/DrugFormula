@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="leibeilazuona" size="64.000000 64.000000" />
+    <ImageTarget name="aisuomeilazuo" size="64.000000 64.000000" />
+    <ImageTarget name="aomeilazuo" size="64.000000 64.000000" />
+    <ImageTarget name="pantuolazuo" size="64.000000 64.000000" />
+    <ImageTarget name="youlansuolazuo" size="64.000000 64.000000" />
+    <ImageTarget name="lansuolazuo" size="64.000000 64.000000" />
+    <ImageTarget name="qiangjiajihuahewu" size="64.000000 64.000000" />
+    <ImageTarget name="liuyanghuawu" size="64.000000 64.000000" />
+    <ImageTarget name="leinitiding" size="64.000000 64.000000" />
+    <ImageTarget name="nizhatiding" size="64.000000 64.000000" />
+    <ImageTarget name="luoshatidingyisuanzhi" size="64.000000 64.000000" />
+    <ImageTarget name="famotiding" size="64.000000 64.000000" />
+    <ImageTarget name="ximitiding" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="labeiluoer" size="64.000000 64.000000" />
+    <ImageTarget name="suotaluoer" size="64.000000 64.000000" />
+    <ImageTarget name="bisuoluoer" size="64.000000 64.000000" />
+    <ImageTarget name="beitaluoer" size="64.000000 64.000000" />
+    <ImageTarget name="meituoluoer" size="64.000000 64.000000" />
+    <ImageTarget name="punailuoer" size="64.000000 64.000000" />
+    <ImageTarget name="andiantong" size="64.000000 64.000000" />
+    <ImageTarget name="puluopatong" size="64.000000 64.000000" />
+    <ImageTarget name="meixilv" size="64.000000 64.000000" />
+    <ImageTarget name="liduokayin" size="64.000000 64.000000" />
+    <ImageTarget name="kuining" size="64.000000 64.000000" />
+    <ImageTarget name="kuiniding" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

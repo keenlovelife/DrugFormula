@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="xiaojibenbidingyanshengwu" size="64.000000 64.000000" />
+    <ImageTarget name="yaxiaojibenbidingyanshengwu" size="64.000000 64.000000" />
+    <ImageTarget name="dierliuzhuo" size="64.000000 64.000000" />
+    <ImageTarget name="weilapami" size="64.000000 64.000000" />
+    <ImageTarget name="nimodiping" size="64.000000 64.000000" />
+    <ImageTarget name="anlvdiping" size="64.000000 64.000000" />
+    <ImageTarget name="feiluodiping" size="64.000000 64.000000" />
+    <ImageTarget name="niqundiping" size="64.000000 64.000000" />
+    <ImageTarget name="xiaobendiping" size="64.000000 64.000000" />
+    <ImageTarget name="wusixiaozhi" size="64.000000 64.000000" />
+    <ImageTarget name="danxiaosuanyishanlizhi" size="64.000000 64.000000" />
+    <ImageTarget name="xiaosuanyishanlizhi" size="64.000000 64.000000" />
+    <ImageTarget name="dingsixiaozhi" size="64.000000 64.000000" />
+    <ImageTarget name="yaxiaosuanyiwuzhi" size="64.000000 64.000000" />
+    <ImageTarget name="xiaosuanganyou" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>

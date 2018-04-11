@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="benxiumalong" size="64.000000 64.000000" />
+    <ImageTarget name="feibusuotan" size="64.000000 64.000000" />
+    <ImageTarget name="biepiaochun" size="64.000000 64.000000" />
+    <ImageTarget name="binghuangshu" size="64.000000 64.000000" />
+    <ImageTarget name="qiushuixianjian" size="64.000000 64.000000" />
+  </Tracking>
+</QCARConfig>
